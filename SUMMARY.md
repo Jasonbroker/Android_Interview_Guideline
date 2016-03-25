@@ -1,4 +1,4 @@
 # Summary
 
-* Computer science general
+* [Computer science general](computer_science_general.md)
 
